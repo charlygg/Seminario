@@ -1,0 +1,200 @@
+﻿================================================
+Nombre: Carlos Villagran
+Edad: 21
+Email: cars@gmail.com
+Pais: Bolivia
+_________________________________________________
+Resultados en las áreas de Interes de la persona
+Puntaje en base a 10 como máximo en las siguientes ciencias
+Administrativas y Contables: 3
+Humanisticas y Sociales: 3
+Artisticas: 3
+Medicinas y Ciencias de la Salud: 2
+Ingeniería y Computación: 4
+Defensa y Seguridad: 3
+Ciencias Exactas y Agrarias:3
+_________________________________________________
+Resultados en las áreas de Vocación
+Puntaje en base a 5 como máximo en las siguientes ciencias
+Administrativas y Contables: 3
+Humanisticas y Sociales: 0
+Artisticas: 1
+Medicinas y Ciencias de la Salud: 1
+Ingeniería y Computación: 1
+Defensa y Seguridad: 1
+Ciencias Exactas y Agrarias: 3
+================================================
+Nombre: Jose Luis
+Edad: 16
+Email: joseaguilar@gmail.com
+Pais: EEUU
+_________________________________________________
+Resultados en las áreas de Interes de la persona
+Puntaje en base a 10 como máximo en las siguientes ciencias
+Administrativas y Contables: 6
+Humanisticas y Sociales: 3
+Artisticas: 2
+Medicinas y Ciencias de la Salud: 4
+Ingeniería y Computación: 2
+Defensa y Seguridad: 3
+Ciencias Exactas y Agrarias: 6
+_________________________________________________
+Resultados en las áreas de Vocación
+Puntaje en base a 5 como máximo en las siguientes ciencias
+Administrativas y Contables: 1
+Humanisticas y Sociales: 2
+Artisticas: 1
+Medicinas y Ciencias de la Salud: 1
+Ingeniería y Computación: 1
+Defensa y Seguridad: 3
+Ciencias Exactas y Agrarias: 1
+================================================
+Nombre: Miguel Paulo
+Edad: 22
+Email: miguelllp20@outlook.com
+Pais: México
+_________________________________________________
+Resultados en las áreas de Interes de la persona
+Puntaje en base a 10 como máximo en las siguientes ciencias
+Administrativas y Contables: 1
+Humanisticas y Sociales: 1
+Artisticas: 3
+Medicinas y Ciencias de la Salud: 0
+Ingeniería y Computación: 1
+Defensa y Seguridad: 3
+Ciencias Exactas y Agrarias: 1
+_________________________________________________
+Resultados en las áreas de Vocación
+Puntaje en base a 5 como máximo en las siguientes ciencias
+Administrativas y Contables: 0
+Humanisticas y Sociales: 0
+Artisticas: 1
+Medicinas y Ciencias de la Salud: 1
+Ingeniería y Computación: 1
+Defensa y Seguridad: 0
+Ciencias Exactas y Agrarias: 0
+================================================
+Nombre: Patricia
+Edad: 20
+Email: pati_systeming@hotmail.com
+Pais: Mexico
+_________________________________________________
+Resultados en las áreas de Interes de la persona
+Puntaje en base a 10 como máximo en las siguientes ciencias
+Administrativas y Contables: 3
+Humanisticas y Sociales: 6
+Artisticas: 3
+Medicinas y Ciencias de la Salud: 3
+Ingeniería y Computación: 3
+Defensa y Seguridad: 2
+Ciencias Exactas y Agrarias: 3
+_________________________________________________
+Resultados en las áreas de Vocación
+Puntaje en base a 5 como máximo en las siguientes ciencias
+Administrativas y Contables: 3
+Humanisticas y Sociales: 1
+Artisticas: 1
+Medicinas y Ciencias de la Salud: 1
+Ingeniería y Computación: 3
+Defensa y Seguridad: 2
+Ciencias Exactas y Agrarias: 3
+================================================
+Nombre: erika robles
+Edad: 24
+Email: kikagirl21@hotmail.com
+Pais: mexico
+_________________________________________________
+Resultados en las áreas de Interes de la persona
+Puntaje en base a 10 como máximo en las siguientes ciencias
+Administrativas y Contables: 7
+Humanisticas y Sociales: 8
+Artisticas: 6
+Medicinas y Ciencias de la Salud: 9
+Ingeniería y Computación: 7
+Defensa y Seguridad: 9
+Ciencias Exactas y Agrarias: 7
+_________________________________________________
+Resultados en las áreas de Vocación
+Puntaje en base a 5 como máximo en las siguientes ciencias
+Administrativas y Contables: 3
+Humanisticas y Sociales: 3
+Artisticas: 2
+Medicinas y Ciencias de la Salud: 3
+Ingeniería y Computación: 3
+Defensa y Seguridad: 4
+Ciencias Exactas y Agrarias: 3
+================================================
+Nombre: Jorge Humberto
+Edad: 22
+Email: jorgealvare@gmail.com
+Pais: México
+_________________________________________________
+Resultados en las áreas de Interes de la persona
+Puntaje en base a 10 como máximo en las siguientes ciencias
+Administrativas y Contables: 5
+Humanisticas y Sociales: 2
+Artisticas: 4
+Medicinas y Ciencias de la Salud: 4
+Ingeniería y Computación: 2
+Defensa y Seguridad: 3
+Ciencias Exactas y Agrarias: 5
+_________________________________________________
+Resultados en las áreas de Vocación
+Puntaje en base a 5 como máximo en las siguientes ciencias
+Administrativas y Contables: 1
+Humanisticas y Sociales: 2
+Artisticas: 1
+Medicinas y Ciencias de la Salud: 2
+Ingeniería y Computación: 1
+Defensa y Seguridad: 2
+Ciencias Exactas y Agrarias: 1
+================================================
+Nombre: Regio
+Edad: 23
+Email: regio@hotmail.com
+Pais: México
+_________________________________________________
+Resultados en las áreas de Interes de la persona
+Puntaje en base a 10 como máximo en las siguientes ciencias
+Administrativas y Contables: 3
+Humanisticas y Sociales: 3
+Artisticas: 4
+Medicinas y Ciencias de la Salud: 1
+Ingeniería y Computación: 3
+Defensa y Seguridad: 3
+Ciencias Exactas y Agrarias: 3
+_________________________________________________
+Resultados en las áreas de Vocación
+Puntaje en base a 5 como máximo en las siguientes ciencias
+Administrativas y Contables: 1
+Humanisticas y Sociales: 1
+Artisticas: 1
+Medicinas y Ciencias de la Salud: 1
+Ingeniería y Computación: 1
+Defensa y Seguridad: 2
+Ciencias Exactas y Agrarias: 1
+================================================
+Nombre: Manuel
+Edad: 24
+Email: manuel@hotmail.com
+Pais: México
+_________________________________________________
+Resultados en las áreas de Interes de la persona
+Puntaje en base a 10 como máximo en las siguientes ciencias
+Administrativas y Contables: 2
+Humanisticas y Sociales: 1
+Artisticas: 5
+Medicinas y Ciencias de la Salud: 4
+Ingeniería y Computación: 2
+Defensa y Seguridad: 5
+Ciencias Exactas y Agrarias: 2
+_________________________________________________
+Resultados en las áreas de Vocación
+Puntaje en base a 5 como máximo en las siguientes ciencias
+Administrativas y Contables: 1
+Humanisticas y Sociales: 0
+Artisticas: 1
+Medicinas y Ciencias de la Salud: 3
+Ingeniería y Computación: 1
+Defensa y Seguridad: 1
+Ciencias Exactas y Agrarias: 1
